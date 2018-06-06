@@ -9,3 +9,4 @@ Random exercises to keep JavaScript skills sharp.
 * [`dev-tools-practice`](dev-tools-practice) - useful Web Console commands and more
 * [`custom-video-player`](custom-video-player) - built with HTML5 and vanilla JavaScript
 * [`references-v-copying`](references-v-copying) - refresher on references/copying on arrays and objects
+* [`slide-in-on-scroll`](slide-in-on-scroll) - window events, attributes
