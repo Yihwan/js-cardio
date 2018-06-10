@@ -11,3 +11,4 @@ Random exercises to keep JavaScript skills sharp.
 * [`references-v-copying`](references-v-copying) - refresher on references/copying on arrays and objects
 * [`slide-in-on-scroll`](slide-in-on-scroll) - window events, attributes
 * [`local-storage`](local-storage) - local storage, event delegation
+* [`mouse-move-shadow`](mouse-move-shadow) - mousemove, offsets
