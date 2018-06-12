@@ -13,3 +13,4 @@ Random exercises to keep JavaScript skills sharp.
 * [`local-storage`](local-storage) - local storage, event delegation
 * [`mouse-move-shadow`](mouse-move-shadow) - mousemove, offsets
 * [`sort-without-articles`](sort-without-articles) - RegExp, sorting
+* [`adding-with-reduce`](adding-with-reduce) - reducers
