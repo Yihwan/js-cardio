@@ -3,6 +3,8 @@ Random exercises to keep JavaScript skills sharp.
 
 ## Contents
 
+* [`tic-tac-toe`](tic-tac-toe) - tic tac toe
+
 ### Guided by Wes' JavaScript 30
 * [`arrays-1`](arrays-1) - array exercises
 * [`arrays-2`](arrays-2) - array exercises continued
